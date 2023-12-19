@@ -1,7 +1,6 @@
 # Hello, I'm Minji Kim from VBlab!  
   
 ## Master's degree in Information Convergence Engineering(AI major) from Pusan National University
-![lab_logo](./VBLab_logo.png)
 
 ### Publications(All 1st Author)
 -	Min-ji Kim, QiKang Deng, DongWon Choo, Hyo Chul Ji and DoHoon Lee “AGCNet: Enhancing High-contrast Images with Automatic Gamma Correction,” The 19th International Conference on Multimedia Information Technology and Applications (MITA) July, 2023. Ostrava, Czech.
@@ -15,6 +14,7 @@
 
 **Vision & Biometric Lab. (Prof. DoHoon Lee): 2021. 9. - Current**
 ---
+![lab_logo](./VBLab_logo.png)
 **Programming Language: C/C++, Python**</br>
 **Exposure to PyTorch, OpenCV, Tensorflow**
 - 🤓 **I’m currently learning** Exposure Correction, Low-light Enhancement 
