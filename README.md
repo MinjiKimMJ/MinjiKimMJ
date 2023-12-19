@@ -14,7 +14,7 @@
 
 **Vision & Biometric Lab. (Prof. DoHoon Lee): 2021. 9. - Current**
 ---
-![lab_logo](./VBLab_logo.png)
+![lab_logo](./VBLab_logo.png)</br>
 **Programming Language: C/C++, Python**</br>
 **Exposure to PyTorch, OpenCV, Tensorflow**
 - 🤓 **I’m currently learning** Exposure Correction, Low-light Enhancement 
